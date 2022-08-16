@@ -1,0 +1,12 @@
+
+.text {
+    background-color: #CCCCFF;
+}
+
+.table {
+    position: absolute;
+    width: 70%;
+    border: 5px; 
+    left: 18%;
+    
+}
